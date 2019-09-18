@@ -29,10 +29,4 @@ public class ShortUrlGenerator {
         return sb.toString();
     }
 
-
-    private static String  url="https://github.com/wangzheng0822/ratelimiter4j";
-
-    public static void main(String[] args) {
-        System.out.println(ShortUrlGenerator.genaratorCode(url));
-    }
 }
