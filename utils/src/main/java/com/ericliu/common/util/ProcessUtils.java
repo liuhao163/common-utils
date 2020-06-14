@@ -1,4 +1,4 @@
-package com.ericliu.common.utils;
+package com.ericliu.common.util;
 
 import java.lang.management.ManagementFactory;
 import java.lang.management.RuntimeMXBean;

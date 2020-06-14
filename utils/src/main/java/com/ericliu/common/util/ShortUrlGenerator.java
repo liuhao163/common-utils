@@ -1,4 +1,4 @@
-package com.ericliu.common.utils;
+package com.ericliu.common.util;
 
 import java.util.ArrayList;
 import java.util.List;
