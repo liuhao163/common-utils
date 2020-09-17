@@ -1,0 +1,39 @@
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Executables
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+
+# Intelli-J & Eclipse
+*.iml
+.idea
+target
+out
+.classpath
+.project
+.settings
+
+.DS_Store
+logs/*
+
+output
