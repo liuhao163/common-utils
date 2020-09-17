@@ -1,4 +1,4 @@
-package com.ericliu.common.utils;
+package com.ericliu.common.util;
 
 /**
  * @Author: liuhaoeric
